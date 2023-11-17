@@ -1,4 +1,4 @@
-name: Update key value store
+uyssname: Update key value store
 on:
   workflow_dispatch:
     inputs:
@@ -29,8 +29,8 @@ jobs:
 
       - name: Initialize GIT
         run: |
-          git config --global user.name 'YOUR_GITHUB_USERNAME'
-          git config --global user.email 'YOUR_GITHUB_USERNAME@users.noreply.github.com'
+          git config --global user.name 'rubenbuysse'
+          git config --global user.email 'rubenbuysse@users.noreply.github.com'
 
       - name: Install .env file
         run: |
