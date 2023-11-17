@@ -1,4 +1,4 @@
-uyssname: Update key value store
+name: Update key value store
 on:
   workflow_dispatch:
     inputs:
