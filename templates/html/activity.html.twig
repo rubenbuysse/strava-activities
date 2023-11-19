@@ -66,7 +66,12 @@
                 <div class="grid grid-cols-4 gap-2">
                     {% for imagePath in activity.getRemoteImagePaths() %}
                         <div>
-                            <img class="h-auto max-w-full rounded-lg lazy" src="{{ placeholderImage }}" data-src="{{ imagePath }}" alt="Activity image">
+                            <a href="#" data-popover-target="popover-image-{{ loop.index }}" data-popover-placement="bottom">
+                                <img class="h-auto max-w-full rounded-lg lazy" src="{{ placeholderImage }}" data-src="{{ imagePath }}" alt="Activity image" />
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-{{ loop.index }}" role="tooltip" class="w-[35rem] absolute z-10 invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy" src="{{ placeholderImage }}" data-src="{{ imagePath }}"  alt="Activity image" />
                         </div>
                     {% endfor %}
                 </div>
@@ -94,7 +99,7 @@
                         </tr>
                         </thead>
                         <tbody>
-                        <tr>
+                        <tr class="border-b dark:border-gray-600">
                             <th class="px-6 py-3">
                                 Avg
                             </th>
@@ -179,44 +184,58 @@
                         </tbody>
                     </table>
                 </div>
+                {% if activity.hasDetailedPowerData() %}
+                    <div class="mt-4">
+                        <div class="relative overflow-x-auto">
+                            <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                                <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                                {% set timeIntervals =  [5, 60, 300, 1200] %}
+                                {% set timeIntervalLabels = ['Best 5s', 'Best 1m', 'Best 5m', 'Best 20m'] %}
+                                <tr>
+                                    {% for timeInterval in timeIntervals %}
+                                        {% set powerOutput = activity.getBestAveragePowerForTimeInterval(timeInterval) %}
+                                        {% if powerOutput %}
+                                            <th scope="col" colspan="2" class="px-6 py-3">
+                                                {{ timeIntervalLabels[loop.index0] }}
+                                            </th>
+                                        {% endif %}
+                                    {% endfor %}
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    {% for timeInterval in timeIntervals %}
+                                        {% set powerOutput = activity.getBestAveragePowerForTimeInterval(timeInterval) %}
+                                        {% if powerOutput %}
+                                            <td class="px-2 py-2 border-l dark:border-gray-600">
+                                                {{ powerOutput.getPower() }}<span class="text-xs">w</span>
+                                            </td>
+                                            <td class="px-2 py-2 border-r dark:border-gray-600">
+                                                {{ powerOutput.getRelativePower() }}<span class="text-xs">w/kg</span>
+                                            </td>
+                                        {% endif %}
+                                    {% endfor %}
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                {% endif %}
             </div>
         </div>
-        {% if activity.hasDetailedPowerData() %}
-            <div class="mt-4 mb-1">
-                <h3 class="font-bold mb-1">Power outputs</h3>
-                <div class="relative overflow-x-auto">
-                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
-                        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
-                        {% set timeIntervalLabels = ['Best 5s', 'Best 10s', 'Best 30s', 'Best 1m', 'Best 5m', 'Best 8m', 'Best 20m', 'Best 1h'] %}
-                        <tr>
-                            {% for timeInterval in timeIntervals %}
-                                {% set powerOutput = activity.getBestAveragePowerForTimeInterval(timeInterval) %}
-                                {% if powerOutput %}
-                                    <th scope="col" colspan="2" class="px-6 py-3">
-                                        {{ timeIntervalLabels[loop.index0] }}
-                                    </th>
-                                {% endif %}
-                            {% endfor %}
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                            {% for timeInterval in timeIntervals %}
-                                {% set powerOutput = activity.getBestAveragePowerForTimeInterval(timeInterval) %}
-                                {% if powerOutput %}
-                                    <td class="px-2 py-2 border-l">
-                                        {{ powerOutput.getPower() }}<span class="text-xs">w</span>
-                                    </td>
-                                    <td class="px-2 py-2 border-r">
-                                        {{ powerOutput.getRelativePower() }}<span class="text-xs">w/kg</span>
-                                    </td>
-                                {% endif %}
-                            {% endfor %}
-                        </tr>
-                        </tbody>
-                    </table>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            {% if powerDistributionChart %}
+                <div>
+                    <h3 class="font-bold mb-1 text-center">Power distribution</h3>
+                    <div class="h-[350px]" data-echarts-options='{{ powerDistributionChart }}'></div>
                 </div>
-            </div>
-        {% endif %}
+            {% endif %}
+            {% if heartRateDistributionChart %}
+                <div>
+                    <h3 class="font-bold mb-1 text-center">Heart rate distribution</h3>
+                    <div class="h-[350px]" data-echarts-options='{{ heartRateDistributionChart }}'></div>
+                </div>
+            {% endif %}
+        </div>
     </div>
 {% endautoescape %}
