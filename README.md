@@ -3,20 +3,20 @@
          alt="Strava">
 </p>
 
-Since I began cycling `3421 days` ago on `12-07-2014`,
-I had `619 cycling days`.<br />
-I recorded a total distance of `14 478 km`
+Since I began cycling `3422 days` ago on `12-07-2014`,
+I had `620 cycling days`.<br />
+I recorded a total distance of `14 494 km`
 (`0.36` trips around the world 🌍 and
 `0.038` trips to the moon 🌕),
-an elevation of `56 985 m`
+an elevation of `57 013 m`
 (`6.4` times Mount Everest 🏔)
-and a total time of `3w 6d 19h 35m` 🎉
+and a total time of `3w 6d 20h 22m` 🎉
 
 That's a daily average of `4 km`,
 a weekly average of `30 km` and a
 monthly average of `128 km` 🐣
 
-I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
+I burned `338610 calories` doing so, that's about `1 254` pizza slices 🍕
 
 ---
 
@@ -49,6 +49,32 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>24-11-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10274823684" title="Kcal: 226 | Gear: Stadsfiets ">Evening Ride 🚃</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">16 <sup><sub>m</sub></sup></td>
+            <td align="center">26:03</td>
+            <td align="center">55 <sup><sub>w</sub></sup></td>
+            <td align="center">19.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">129</td>
+        </tr>
+            <tr>
+            <td>24-11-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10272076102" title="Kcal: 164 | Gear: Stadsfiets ">Morning Ride 🚃</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">12 <sup><sub>m</sub></sup></td>
+            <td align="center">21:07</td>
+            <td align="center">83 <sup><sub>w</sub></sup></td>
+            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">122</td>
+        </tr>
             <tr>
             <td>22-11-23</td>
             <td>
@@ -88,32 +114,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">23.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">131</td>
         </tr>
-            <tr>
-            <td>21-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10258147376" title="Kcal: 104 | Gear: Stadsfiets ">Evening Ride 🚃</a>
-            </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">12:03</td>
-            <td align="center">55 <sup><sub>w</sub></sup></td>
-            <td align="center">21.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">126</td>
-        </tr>
-            <tr>
-            <td>21-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10254917804" title="Kcal: 79 | Gear: Stadsfiets ">Morning Ride 🚃</a>
-            </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">11:16</td>
-            <td align="center">76 <sup><sub>w</sub></sup></td>
-            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">115</td>
-        </tr>
         </table>
 <details>
     <summary>Older activities</summary>
@@ -128,6 +128,32 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
         </tr>
+                    <tr>
+                <td>21-11-23</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                    <a href="https://www.strava.com/activities/10258147376" title="Kcal: 104 | Gear: Stadsfiets ">Evening Ride 🚃</a>
+                </td>
+                <td align="center">4 <sup><sub>km</sub></sup></td>
+                <td align="center">0 <sup><sub>m</sub></sup></td>
+                <td align="center">12:03</td>
+                <td align="center">55 <sup><sub>w</sub></sup></td>
+                <td align="center">21.5 <sup><sub>km/h</sub></sup></td>
+                <td align="center">126</td>
+            </tr>
+                    <tr>
+                <td>21-11-23</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                    <a href="https://www.strava.com/activities/10254917804" title="Kcal: 79 | Gear: Stadsfiets ">Morning Ride 🚃</a>
+                </td>
+                <td align="center">4 <sup><sub>km</sub></sup></td>
+                <td align="center">0 <sup><sub>m</sub></sup></td>
+                <td align="center">11:16</td>
+                <td align="center">76 <sup><sub>w</sub></sup></td>
+                <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
+                <td align="center">115</td>
+            </tr>
                     <tr>
                 <td>19-11-23</td>
                 <td>
@@ -752,32 +778,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
                 <td align="center">24.6 <sup><sub>km/h</sub></sup></td>
                 <td align="center">144</td>
             </tr>
-                    <tr>
-                <td>13-09-23</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9842089599" title="Kcal: 93 | Gear: Stadsfiets ">Afternoon Ride 🚃</a>
-                </td>
-                <td align="center">4 <sup><sub>km</sub></sup></td>
-                <td align="center">0 <sup><sub>m</sub></sup></td>
-                <td align="center">11:23</td>
-                <td align="center">67 <sup><sub>w</sub></sup></td>
-                <td align="center">22.6 <sup><sub>km/h</sub></sup></td>
-                <td align="center">122</td>
-            </tr>
-                    <tr>
-                <td>13-09-23</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9839058926" title="Kcal: 91 | Gear: Stadsfiets ">Morning Ride 🚃</a>
-                </td>
-                <td align="center">4 <sup><sub>km</sub></sup></td>
-                <td align="center">0 <sup><sub>m</sub></sup></td>
-                <td align="center">10:51</td>
-                <td align="center">81 <sup><sub>w</sub></sup></td>
-                <td align="center">23.7 <sup><sub>km/h</sub></sup></td>
-                <td align="center">124</td>
-            </tr>
             </table>
 </details>
 
@@ -790,7 +790,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
         <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th># of rides</th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
-        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="30" alt="Gear" title="Gear"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/challenge2.svg" width="30" alt="completed challenges" title="completed challenges"/></th>
@@ -799,29 +798,16 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">November 2023</td>
-            <td align="center">20</td>
-            <td align="center">224 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Tacx</b>: 137 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 79 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 8 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
-            <td align="center">217 <sup><sub>m</sub></sup></td>
-            <td align="center">8h 59m</td>
+            <td align="center">22</td>
+            <td align="center">240 <sup><sub>km</sub></sup></td>
+            <td align="center">245 <sup><sub>m</sub></sup></td>
+            <td align="center">9h 46m</td>
             <td align="center">4</td>
         </tr>
             <tr>
             <td align="center">October 2023</td>
             <td align="center">26</td>
             <td align="center">163 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 151 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 12 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">183 <sup><sub>m</sub></sup></td>
             <td align="center">8h 1m</td>
             <td align="center">5</td>
@@ -830,12 +816,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">September 2023</td>
             <td align="center">21</td>
             <td align="center">321 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 229 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 92 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 493 <sup><sub>m</sub></sup></td>
             <td align="center">18h 19m</td>
             <td align="center">9</td>
@@ -844,13 +824,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">August 2023</td>
             <td align="center">37</td>
             <td align="center">443 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 223 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 206 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 14 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">800 <sup><sub>m</sub></sup></td>
             <td align="center">18h 32m</td>
             <td align="center">3</td>
@@ -859,14 +832,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2023</td>
             <td align="center">15</td>
             <td align="center">329 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 218 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 53 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 49 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 9 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">4 911 <sup><sub>m</sub></sup></td>
             <td align="center">17h 14m</td>
             <td align="center">5</td>
@@ -875,13 +840,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2023</td>
             <td align="center">50</td>
             <td align="center">503 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 294 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 205 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 4 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">916 <sup><sub>m</sub></sup></td>
             <td align="center">23h 27m</td>
             <td align="center">11</td>
@@ -890,12 +848,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2023</td>
             <td align="center">20</td>
             <td align="center">161 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 104 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 57 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">184 <sup><sub>m</sub></sup></td>
             <td align="center">7h 34m</td>
             <td align="center">4</td>
@@ -904,11 +856,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">April 2023</td>
             <td align="center">8</td>
             <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 50 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">32 <sup><sub>m</sub></sup></td>
             <td align="center">2h 22m</td>
             <td align="center">0</td>
@@ -917,11 +864,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">March 2023</td>
             <td align="center">9</td>
             <td align="center">67 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 67 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">41 <sup><sub>m</sub></sup></td>
             <td align="center">3h 27m</td>
             <td align="center">3</td>
@@ -930,13 +872,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">February 2023</td>
             <td align="center">27</td>
             <td align="center">275 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 127 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 84 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 64 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">521 <sup><sub>m</sub></sup></td>
             <td align="center">12h 41m</td>
             <td align="center">5</td>
@@ -945,13 +880,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">January 2023</td>
             <td align="center">25</td>
             <td align="center">279 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 131 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 124 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 24 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">489 <sup><sub>m</sub></sup></td>
             <td align="center">13h 24m</td>
             <td align="center">12</td>
@@ -960,12 +888,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">December 2022</td>
             <td align="center">18</td>
             <td align="center">178 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 101 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 77 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 352 <sup><sub>m</sub></sup></td>
             <td align="center">9h 54m</td>
             <td align="center">4</td>
@@ -974,11 +896,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">November 2022</td>
             <td align="center">11</td>
             <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 73 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">53 <sup><sub>m</sub></sup></td>
             <td align="center">3h 33m</td>
             <td align="center">4</td>
@@ -987,12 +904,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">October 2022</td>
             <td align="center">11</td>
             <td align="center">120 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 69 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 51 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">155 <sup><sub>m</sub></sup></td>
             <td align="center">5h 51m</td>
             <td align="center">5</td>
@@ -1001,12 +912,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">September 2022</td>
             <td align="center">18</td>
             <td align="center">217 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 120 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 97 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 430 <sup><sub>m</sub></sup></td>
             <td align="center">10h 25m</td>
             <td align="center">7</td>
@@ -1015,12 +920,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">August 2022</td>
             <td align="center">26</td>
             <td align="center">281 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 156 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 125 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">346 <sup><sub>m</sub></sup></td>
             <td align="center">12h 17m</td>
             <td align="center">7</td>
@@ -1029,11 +928,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2022</td>
             <td align="center">24</td>
             <td align="center">159 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 159 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">194 <sup><sub>m</sub></sup></td>
             <td align="center">7h 53m</td>
             <td align="center">0</td>
@@ -1042,11 +936,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2022</td>
             <td align="center">27</td>
             <td align="center">195 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 195 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">214 <sup><sub>m</sub></sup></td>
             <td align="center">10h 14m</td>
             <td align="center">0</td>
@@ -1055,11 +944,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2022</td>
             <td align="center">23</td>
             <td align="center">160 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 160 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">266 <sup><sub>m</sub></sup></td>
             <td align="center">9h 32m</td>
             <td align="center">0</td>
@@ -1068,11 +952,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">April 2022</td>
             <td align="center">8</td>
             <td align="center">61 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 61 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">94 <sup><sub>m</sub></sup></td>
             <td align="center">3h 46m</td>
             <td align="center">0</td>
@@ -1081,11 +960,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">March 2022</td>
             <td align="center">18</td>
             <td align="center">102 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 102 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">106 <sup><sub>m</sub></sup></td>
             <td align="center">5h 26m</td>
             <td align="center">0</td>
@@ -1094,12 +968,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">February 2022</td>
             <td align="center">16</td>
             <td align="center">93 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 85 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 8 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">115 <sup><sub>m</sub></sup></td>
             <td align="center">4h 56m</td>
             <td align="center">0</td>
@@ -1108,12 +976,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">January 2022</td>
             <td align="center">10</td>
             <td align="center">79 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 43 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 36 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">281 <sup><sub>m</sub></sup></td>
             <td align="center">4h 15m</td>
             <td align="center">3</td>
@@ -1122,12 +984,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">December 2021</td>
             <td align="center">3</td>
             <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 42 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 8 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">127 <sup><sub>m</sub></sup></td>
             <td align="center">2h 43m</td>
             <td align="center">1</td>
@@ -1136,11 +992,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">November 2021</td>
             <td align="center">14</td>
             <td align="center">84 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 84 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">115 <sup><sub>m</sub></sup></td>
             <td align="center">4h 35m</td>
             <td align="center">0</td>
@@ -1149,13 +1000,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">October 2021</td>
             <td align="center">28</td>
             <td align="center">310 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 159 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 147 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 4 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 398 <sup><sub>m</sub></sup></td>
             <td align="center">14h 1m</td>
             <td align="center">5</td>
@@ -1164,13 +1008,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">September 2021</td>
             <td align="center">24</td>
             <td align="center">306 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 201 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 99 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 6 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 715 <sup><sub>m</sub></sup></td>
             <td align="center">16h 46m</td>
             <td align="center">17</td>
@@ -1179,14 +1016,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">August 2021</td>
             <td align="center">20</td>
             <td align="center">317 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 132 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 99 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 82 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 4 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">764 <sup><sub>m</sub></sup></td>
             <td align="center">14h 11m</td>
             <td align="center">19</td>
@@ -1195,12 +1024,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2021</td>
             <td align="center">10</td>
             <td align="center">104 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 59 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 45 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">170 <sup><sub>m</sub></sup></td>
             <td align="center">4h 40m</td>
             <td align="center">2</td>
@@ -1209,13 +1032,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2021</td>
             <td align="center">18</td>
             <td align="center">142 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 94 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 44 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 4 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">221 <sup><sub>m</sub></sup></td>
             <td align="center">7h 16m</td>
             <td align="center">0</td>
@@ -1224,13 +1040,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2021</td>
             <td align="center">19</td>
             <td align="center">310 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 229 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 77 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 4 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">589 <sup><sub>m</sub></sup></td>
             <td align="center">12h 41m</td>
             <td align="center">1</td>
@@ -1239,13 +1048,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">April 2021</td>
             <td align="center">15</td>
             <td align="center">213 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 88 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 70 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 55 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">518 <sup><sub>m</sub></sup></td>
             <td align="center">9h 28m</td>
             <td align="center">0</td>
@@ -1254,12 +1056,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">March 2021</td>
             <td align="center">6</td>
             <td align="center">78 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 51 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 27 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">256 <sup><sub>m</sub></sup></td>
             <td align="center">4h 5m</td>
             <td align="center">2</td>
@@ -1268,12 +1064,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">February 2021</td>
             <td align="center">5</td>
             <td align="center">93 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 75 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 18 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">209 <sup><sub>m</sub></sup></td>
             <td align="center">4h 18m</td>
             <td align="center">0</td>
@@ -1282,11 +1072,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">January 2021</td>
             <td align="center">9</td>
             <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 32 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">105 <sup><sub>m</sub></sup></td>
             <td align="center">1h 54m</td>
             <td align="center">0</td>
@@ -1295,13 +1080,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">December 2020</td>
             <td align="center">6</td>
             <td align="center">206 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 127 <sup><sub>km</sub></sup></li>
-                                            <li><b>Trek Domane</b>: 69 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 10 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">545 <sup><sub>m</sub></sup></td>
             <td align="center">8h 46m</td>
             <td align="center">0</td>
@@ -1310,12 +1088,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">November 2020</td>
             <td align="center">14</td>
             <td align="center">115 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 62 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 53 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">217 <sup><sub>m</sub></sup></td>
             <td align="center">5h 52m</td>
             <td align="center">2</td>
@@ -1324,12 +1096,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">October 2020</td>
             <td align="center">7</td>
             <td align="center">123 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 105 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 18 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">370 <sup><sub>m</sub></sup></td>
             <td align="center">5h 39m</td>
             <td align="center">1</td>
@@ -1338,12 +1104,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">September 2020</td>
             <td align="center">9</td>
             <td align="center">371 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 329 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 42 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 938 <sup><sub>m</sub></sup></td>
             <td align="center">14h 53m</td>
             <td align="center">6</td>
@@ -1352,13 +1112,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">August 2020</td>
             <td align="center">23</td>
             <td align="center">673 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 398 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 164 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 111 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">9 104 <sup><sub>m</sub></sup></td>
             <td align="center">1d 8h 9m</td>
             <td align="center">4</td>
@@ -1367,13 +1120,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2020</td>
             <td align="center">23</td>
             <td align="center">536 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 216 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 165 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 155 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 097 <sup><sub>m</sub></sup></td>
             <td align="center">22h 34m</td>
             <td align="center">5</td>
@@ -1382,13 +1128,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2020</td>
             <td align="center">21</td>
             <td align="center">659 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 449 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 160 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 50 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 081 <sup><sub>m</sub></sup></td>
             <td align="center">1d 2h 48m</td>
             <td align="center">7</td>
@@ -1397,13 +1136,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2020</td>
             <td align="center">34</td>
             <td align="center">997 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 728 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 258 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 11 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 809 <sup><sub>m</sub></sup></td>
             <td align="center">1d 18h 5m</td>
             <td align="center">9</td>
@@ -1412,13 +1144,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">April 2020</td>
             <td align="center">16</td>
             <td align="center">669 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 513 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 99 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 57 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 666 <sup><sub>m</sub></sup></td>
             <td align="center">1d 3h 36m</td>
             <td align="center">7</td>
@@ -1427,12 +1152,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">March 2020</td>
             <td align="center">14</td>
             <td align="center">492 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 388 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 104 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 652 <sup><sub>m</sub></sup></td>
             <td align="center">20h 31m</td>
             <td align="center">5</td>
@@ -1441,11 +1160,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">February 2020</td>
             <td align="center">2</td>
             <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 18 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">30 <sup><sub>m</sub></sup></td>
             <td align="center">49m</td>
             <td align="center">2</td>
@@ -1454,12 +1168,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">January 2020</td>
             <td align="center">17</td>
             <td align="center">294 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Orbea Alma</b>: 173 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 121 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">438 <sup><sub>m</sub></sup></td>
             <td align="center">13h 47m</td>
             <td align="center">1</td>
@@ -1468,12 +1176,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">December 2019</td>
             <td align="center">8</td>
             <td align="center">107 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 54 <sup><sub>km</sub></sup></li>
-                                            <li><b>Orbea Alma</b>: 53 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">187 <sup><sub>m</sub></sup></td>
             <td align="center">5h 8m</td>
             <td align="center">2</td>
@@ -1482,11 +1184,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">November 2019</td>
             <td align="center">4</td>
             <td align="center">34 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 34 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">75 <sup><sub>m</sub></sup></td>
             <td align="center">1h 50m</td>
             <td align="center">0</td>
@@ -1495,11 +1192,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">October 2019</td>
             <td align="center">1</td>
             <td align="center">25 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 25 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">315 <sup><sub>m</sub></sup></td>
             <td align="center">2h 32m</td>
             <td align="center">0</td>
@@ -1508,13 +1200,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">September 2019</td>
             <td align="center">18</td>
             <td align="center">410 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 287 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 114 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 9 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">695 <sup><sub>m</sub></sup></td>
             <td align="center">15h 43m</td>
             <td align="center">5</td>
@@ -1523,12 +1208,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">August 2019</td>
             <td align="center">11</td>
             <td align="center">240 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 156 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 84 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">479 <sup><sub>m</sub></sup></td>
             <td align="center">9h 20m</td>
             <td align="center">4</td>
@@ -1537,12 +1216,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2019</td>
             <td align="center">14</td>
             <td align="center">420 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 323 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 97 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 899 <sup><sub>m</sub></sup></td>
             <td align="center">17h 41m</td>
             <td align="center">8</td>
@@ -1551,12 +1224,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2019</td>
             <td align="center">3</td>
             <td align="center">178 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 137 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 41 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">374 <sup><sub>m</sub></sup></td>
             <td align="center">7h 18m</td>
             <td align="center">3</td>
@@ -1565,11 +1232,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2019</td>
             <td align="center">3</td>
             <td align="center">227 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 227 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">720 <sup><sub>m</sub></sup></td>
             <td align="center">9h 6m</td>
             <td align="center">2</td>
@@ -1578,12 +1240,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">April 2019</td>
             <td align="center">9</td>
             <td align="center">252 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Trek Domane</b>: 208 <sup><sub>km</sub></sup></li>
-                                            <li><b>Stadsfiets</b>: 44 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">642 <sup><sub>m</sub></sup></td>
             <td align="center">11h 1m</td>
             <td align="center">0</td>
@@ -1592,12 +1248,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">March 2019</td>
             <td align="center">3</td>
             <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 17 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 7 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">25 <sup><sub>m</sub></sup></td>
             <td align="center">1h 20m</td>
             <td align="center">0</td>
@@ -1606,11 +1256,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">January 2019</td>
             <td align="center">2</td>
             <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Stadsfiets</b>: 14 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">13 <sup><sub>m</sub></sup></td>
             <td align="center">46m</td>
             <td align="center">0</td>
@@ -1619,11 +1264,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2018</td>
             <td align="center">1</td>
             <td align="center">52 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 52 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">660 <sup><sub>m</sub></sup></td>
             <td align="center">3h 38m</td>
             <td align="center">0</td>
@@ -1632,11 +1272,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">December 2017</td>
             <td align="center">2</td>
             <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 20 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">82 <sup><sub>m</sub></sup></td>
             <td align="center">1h 8m</td>
             <td align="center">0</td>
@@ -1645,11 +1280,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2017</td>
             <td align="center">9</td>
             <td align="center">89 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 89 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">407 <sup><sub>m</sub></sup></td>
             <td align="center">4h 34m</td>
             <td align="center">0</td>
@@ -1658,11 +1288,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2017</td>
             <td align="center">7</td>
             <td align="center">91 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 91 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">375 <sup><sub>m</sub></sup></td>
             <td align="center">4h 58m</td>
             <td align="center">0</td>
@@ -1671,11 +1296,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">May 2017</td>
             <td align="center">15</td>
             <td align="center">159 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 159 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">318 <sup><sub>m</sub></sup></td>
             <td align="center">7h 49m</td>
             <td align="center">0</td>
@@ -1684,11 +1304,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">April 2017</td>
             <td align="center">12</td>
             <td align="center">240 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 240 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">95 <sup><sub>m</sub></sup></td>
             <td align="center">13h 5m</td>
             <td align="center">0</td>
@@ -1697,11 +1312,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">March 2017</td>
             <td align="center">8</td>
             <td align="center">71 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 71 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">32 <sup><sub>m</sub></sup></td>
             <td align="center">3h 42m</td>
             <td align="center">0</td>
@@ -1710,11 +1320,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">February 2017</td>
             <td align="center">4</td>
             <td align="center">42 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 42 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">32 <sup><sub>m</sub></sup></td>
             <td align="center">2h 18m</td>
             <td align="center">0</td>
@@ -1723,11 +1328,6 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">June 2016</td>
             <td align="center">1</td>
             <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 47 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">30 <sup><sub>m</sub></sup></td>
             <td align="center">1h 45m</td>
             <td align="center">0</td>
@@ -1736,33 +1336,33 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
             <td align="center">July 2014</td>
             <td align="center">1</td>
             <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 11 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 <sup><sub>m</sub></sup></td>
             <td align="center">2h 9m</td>
             <td align="center">0</td>
         </tr>
         <tr>
-        <td align="center" rowspan="3"><b>Totals</b></td>
         <td align="center"><b>Virtual/Indoor</b></td>
-        <td align="center" colspan="2"><b>161 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>6</td>
+        <td align="center"><b>161 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>150 <sup><sub>m</sub></sup></b></td>
-        <td align="center" colspan="2"><b>5h 25m</b></td>
+        <td align="center"><b>5h 25m</b></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center" colspan="2"><b>14 317 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>56 835 <sup><sub>m</sub></sup></b></td>
-        <td align="center" colspan="2"><b>3w 6d 14h 10m</b></td>
+        <td align="center"><b>957</td>
+        <td align="center"><b>14 333 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>56 863 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>3w 6d 14h 57m</b></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center" colspan="2"><b>14 478 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>56 985 <sup><sub>m</sub></sup></b></td>
-        <td align="center" colspan="2"><b>3w 6d 19h 35m</b></td>
+        <td align="center"><b>963</td>
+        <td align="center"><b>14 494 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>57 013 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>3w 6d 20h 22m</b></td>
+        <td align="center"></td>
     </tr>
     </tbody>
 </table>
@@ -1833,13 +1433,13 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Friday</td>
-            <td align="center">110</td>
+            <td align="center">112</td>
             <td align="center">
                                     11 <sup><sub>km avg</sub></sup> /
-                    1 197 <sup><sub>km total</sub></sup>
+                    1 213 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">5 466 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 9h 42m</td>
+            <td align="center">5 494 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 10h 30m</td>
             <td align="center">20.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1886,13 +1486,13 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Morning (6h - 12h)</td>
-            <td align="center">432</td>
+            <td align="center">433</td>
             <td align="center">
                                     20 <sup><sub>km avg</sub></sup> /
-                    8 547 <sup><sub>km total</sub></sup>
+                    8 555 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">41 996 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 2d 4h 50m</td>
+            <td align="center">42 008 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 2d 5h 11m</td>
             <td align="center">22.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1908,13 +1508,13 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Evening (17h - 23h)</td>
-            <td align="center">371</td>
+            <td align="center">372</td>
             <td align="center">
                                     10 <sup><sub>km avg</sub></sup> /
-                    3 740 <sup><sub>km total</sub></sup>
+                    3 748 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">7 032 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 7h 22m</td>
+            <td align="center">7 048 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 7h 48m</td>
             <td align="center">21.3 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1958,13 +1558,13 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Stadsfiets</td>
-            <td align="center">734</td>
+            <td align="center">736</td>
             <td align="center">
                                     7 <sup><sub>km avg</sub></sup> /
-                    5 105 <sup><sub>km total</sub></sup>
+                    5 122 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">6 194 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 4d 2h 27m</td>
+            <td align="center">6 222 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 4d 3h 14m</td>
             <td align="center">19.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -2157,13 +1757,13 @@ I burned `338220 calories` doing so, that's about `1 253` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">0 - 10 km</td>
-            <td align="center">759</td>
+            <td align="center">761</td>
             <td align="center">
                                      6 <sup><sub>km avg</sub></sup> /
-                     4 928 <sup><sub>km total</sub></sup>
+                     4 944 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">6 603 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 3d 12h 8m</td>
+            <td align="center">6 631 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 3d 12h 55m</td>
             <td align="center">19.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
