@@ -21,6 +21,9 @@
                 "axisTick": {
                     "show": false
                 },
+                "axisLabel": {
+                    "interval": 0
+                },
                 "data": [
                     "",
                     "Oct 2023",
