@@ -22,25 +22,25 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
             <div>
                 <div class="mb-4 grid grid-cols-5 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
                             <dt class="font-extrabold">117<span class="text-xs">km</span></dt>
                         </div>
                     </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
                             <dt class="font-extrabold">4:28:24</dt>
                         </div>
                     </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
                             <dt class="font-extrabold">634<span class="text-xs">m</span></dt>
                         </div>
                     </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
                             <dt class="font-extrabold">2322</dt>
@@ -58,37 +58,64 @@
                         Humidity 65%,
                         Wind 8km/h from S.
                     </div>
-                                                <div class="mb-4 grid grid-cols-4 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Speed</dd>
-                                                                                        <dt class="font-extrabold">26.2 <span class="text-xs">km/h</span></dt>
-                                                                                                                    <dd class="text-xs text-gray-500 dark:text-gray-400">
-                                    51.8 <span class="text-xs">km/h</span>
-                                </dd>
-                                                    </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Heart rate</dd>
-                                                                                        <dt class="font-extrabold">141 <span class="text-xs">bpm</span></dt>
-                                                                                                                    <dd class="text-xs text-gray-500 dark:text-gray-400">
-                                    174 <span class="text-xs">bpm</span>
-                                </dd>
-                                                    </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Cadence</dd>
-                                                        <dt class="font-extrabold">n/a</dt>
-                                                                                </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Power</dd>
-                                                                                        <dt class="font-extrabold">118<span class="text-xs">w</span></dt>
-                                                                                                            </div>
-                    </div>
+                                                <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-2">
+
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Speed
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Heart rate
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Cadence
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Power
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr class="border-b dark:border-gray-600">
+                            <th class="px-2 py-2">
+                                Avg
+                            </th>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    26.2<span class="text-xs">km/h</span>
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    141<span class="text-xs">bpm</span>
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                n/a
+                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    118<span class="text-xs">w</span>
+                                                            </td>
+                        </tr>
+                        <tr>
+                            <th class="px-2 py-2">
+                                Max
+                            </th>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    51.8<span class="text-xs">km/h</span>
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    174<span class="text-xs">bpm</span>
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                n/a
+                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    n/a
+                                                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
                 </div>
                             </div>
                                             <div class="h-[350px]" style="background-color:#bbbbb7" data-leaflet='{"routes":["axvvHg}jUrHrOhCcAr\\r|@tEd^fZan@nI_JzWzz@pMhNfYls@|L~FpBjEnFfmAeEzi@bVdPlIfMlFcHpFAn@{L]bPhPx_@h@tO~Yvr@dEaEnJtHfJr\\mCtHfFhEbDdAhQmW|Rhb@rE{Gj`@bA|IfQq@}ChCgIrCy^lPoZb@kLjMeTlGaHjMlC~CqO|R_Kz\\eH`OE|GbEvEiBxUrz@pHbKnQjm@~BhM`S{EnD`Bnj@yVpFri@vI{DQuL|BuGrRsLrSaC_@_YjgAjNhIhIfSdH`Rwo@rHbTlc@pb@dx@nMxc@cLbVZjMwNdThHn`@aAvFzI~S}L|O|NvNkOpUmH|@d[rLff@QhDeL~PuCzMh@jGtFfExHcFfE`Dlf@ru@bQkGdDlOdBb\\pEhQlZlWzU}SpIcApNtm@`KtG|EoBvAwH|HpWpMvQzWu\\jT}IzUg[~NuLhFvPfBtb@tOrUrCrg@fIlIuFvRDzH~N}C|]nDhNrh@eE~Nb@zCnGhQfTlD~AfMtd@aErCgJvDJ`@_KlRob@~s@juAhSbu@dc@k^rJsMvB_G`Ppd@zWt`@fMpYxQjBxWhe@zMjEpFbSxM_LpDpEnSyJpE`IfMwArIfDf@sGfQ_RjHaPrCXzKiInKl@hUnQ`AiDiCwr@p@k_@oC_EKoU}Dkb@h@sl@uHuSuC}]cy@hAoc@xC[cSpCgi@uDa^gDcKiQgOeQ{^uN~Kq]iR_Y}EsJsXiMmIaOnB`Ak^oEmVcFeGaMJcV}JwP}Xu@}KpUse@bLsXqGic@_@gJxHgK`E{Y~H_WbP}XsIoSiGm`@ZeMyIyTb@cIsFk_@rAgZj@{p@cKc\\gEsZeDuDc\\knAiFwByO|HsFmGUmOsKeU_g@xi@uG~QsCmJc_@fMcG~G_DnRy|@fp@mK`i@oDtGwH~k@oHvN{AfN}FfLeIf_@sGfLmSca@sQaKqs@_p@qEbMiTeG}BzF{TlLaB~JlDnVHtXqaAuPkQyW_YpG}UmAmHdOkPnPcLx[sEdCkIw@aPuRcHtHeLuB}LqK{P~wCeWn@eShx@e[nHau@{Lgc@ia@oK}VkRvm@eQmE}L_KcfA}LRxY{QzA_TbNwBpGT|LqIrC}F{i@ql@fXqBeCgR`F{BkNgR{m@yGaKgVuy@iMyAkP?cTdDsrAwaEmO_s@wFse@wKoGkIaNmHiUyAgQoQ_TLeFyFcTeLeZ{NkQmDkV{LmXsVoQbJ|CgCxKmVn\\uv@bQwQbK{|@jsAy`@xUoVjDaDmQc@kr@eMhD_GeI"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
