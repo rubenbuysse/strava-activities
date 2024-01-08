@@ -13,6 +13,7 @@ use App\Domain\Strava\Activity\BuildEddingtonChart\EddingtonChartBuilder;
 use App\Domain\Strava\Activity\BuildWeekdayStatsChart\WeekdayStats;
 use App\Domain\Strava\Activity\BuildWeekdayStatsChart\WeekdayStatsChartsBuilder;
 use App\Domain\Strava\Activity\BuildWeeklyDistanceChart\WeeklyDistanceChartBuilder;
+use App\Domain\Strava\Activity\BuildYearlyRidingTimeChart\YearlyRidingTimeChartBuilder;
 use App\Domain\Strava\Activity\HeartRateDistributionChartBuilder;
 use App\Domain\Strava\Activity\Image\Image;
 use App\Domain\Strava\Activity\Image\ImageRepository;
@@ -216,6 +217,12 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                     monthlyStatistics: $monthlyStatistics,
                     activities: $allActivities
                 ),
+                'YearlyRidingTimeChart' => Json::encode(
+                    YearlyRidingTimeChartBuilder::fromActivities($allActivities, $now)
+                        ->withAnimation(true)
+                        ->withoutBackgroundColor()
+                        ->build()
+                ),
             ]),
         );
 
@@ -358,11 +365,11 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             if (!$polyline = $activity->getPolylineSummary()) {
                 continue;
             }
-            if (!$countryCode = $activity->getAddress()?->getCountryCode()) {
+            if (!$countryCode = $activity->getLocation()?->getCountryCode()) {
                 continue;
             }
             $routesPerCountry[$countryCode][] = $polyline;
-            if ($activity->getAddress()?->getState() === $mostRiddenState) {
+            if ($activity->getLocation()?->getState() === $mostRiddenState) {
                 $routesInMostRiddenState[] = $polyline;
             }
         }
