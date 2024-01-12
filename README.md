@@ -14,7 +14,7 @@ and a total time of `1mo 12h 22m` 🎉
 
 That's a daily average of `4 km`,
 a weekly average of `30 km` and a
-monthly average of `130 km` 🐣
+monthly average of `129 km` 🐣
 
 I burned `347457 calories` doing so, that's about `1 287` pizza slices 🍕
 
@@ -1746,6 +1746,118 @@ I burned `347457 calories` doing so, that's about `1 287` pizza slices 🍕
 ## Yearly distances
 
 <img src="build/charts/chart-yearly-distance-stats.svg" alt="Yearly distance stats"/>
+
+<table>
+    <thead>
+    <tr>
+        <th>Year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
+        <th>Δ prev year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
+    </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td align="center">2024</td>
+            <td align="center">128 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -2 953 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">59 <sup><sub>m</sub></sup></td>
+            <td align="center">5h 52m</td>
+        </tr>
+            <tr>
+            <td align="center">2023</td>
+            <td align="center">3 081 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    1 366 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">12 106 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 1h 1m</td>
+        </tr>
+            <tr>
+            <td align="center">2022</td>
+            <td align="center">1 716 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -316 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">4 606 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 16h 8m</td>
+        </tr>
+            <tr>
+            <td align="center">2021</td>
+            <td align="center">2 031 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -3 120 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">6 186 <sup><sub>m</sub></sup></td>
+            <td align="center">4d 43m</td>
+        </tr>
+            <tr>
+            <td align="center">2020</td>
+            <td align="center">5 151 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    3 226 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">25 947 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 2d 5h 35m</td>
+        </tr>
+            <tr>
+            <td align="center">2019</td>
+            <td align="center">1 925 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    1 873 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">6 424 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 9h 49m</td>
+        </tr>
+            <tr>
+            <td align="center">2018</td>
+            <td align="center">52 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -667 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">660 <sup><sub>m</sub></sup></td>
+            <td align="center">3h 38m</td>
+        </tr>
+            <tr>
+            <td align="center">2017</td>
+            <td align="center">719 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    673 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">1 341 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 13h 38m</td>
+        </tr>
+            <tr>
+            <td align="center">2016</td>
+            <td align="center">47 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    47 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">30 <sup><sub>m</sub></sup></td>
+            <td align="center">1h 45m</td>
+        </tr>
+            <tr>
+            <td align="center">2015</td>
+            <td align="center">0 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -11 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1m</td>
+        </tr>
+            <tr>
+            <td align="center">2014</td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                            </td>
+            <td align="center">3 <sup><sub>m</sub></sup></td>
+            <td align="center">2h 9m</td>
+        </tr>
+        </tbody>
+</table>
 
 ## Distance breakdown
 
