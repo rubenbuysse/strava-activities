@@ -12,8 +12,8 @@
             <tr>
             <td>01-03-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
-<a href="https://www.strava.com/activities/10868980032" title="Kcal: 169 | Gear: None ">Evening Ride</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride 🚃" title="Evening Ride 🚃"/>
+<a href="https://www.strava.com/activities/10868980032" title="Kcal: 169 | Gear: None ">Evening Ride 🚃</a>
             </td>
             <td align="center">8 <sup><sub>km</sub></sup></td>
             <td align="center">12 <sup><sub>m</sub></sup></td>
