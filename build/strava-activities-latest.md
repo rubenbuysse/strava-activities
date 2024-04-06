@@ -10,10 +10,36 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride 🇳🇱🛒" title="Afternoon Ride 🇳🇱🛒"/>
+<a href="https://www.strava.com/activities/11119560208" title="Kcal: 67 | Gear: None ">Afternoon Ride 🇳🇱🛒</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">6 <sup><sub>m</sub></sup></td>
+            <td align="center">8:18</td>
+            <td align="center">71 <sup><sub>w</sub></sup></td>
+            <td align="center">17.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">115</td>
+        </tr>
+            <tr>
+            <td>06-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Scherpenzeel en Renswoude 🇳🇱👨‍👩‍👧‍👦" title="Scherpenzeel en Renswoude 🇳🇱👨‍👩‍👧‍👦"/>
+<a href="https://www.strava.com/activities/11118562354" title="Kcal: 561 | Gear: None ">Scherpenzeel en Renswoude ...</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">13 <sup><sub>m</sub></sup></td>
+            <td align="center">1:44:56</td>
+            <td align="center">39 <sup><sub>w</sub></sup></td>
+            <td align="center">15.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">104</td>
+        </tr>
+            <tr>
             <td>05-04-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride" title="Afternoon Ride"/>
-<a href="https://www.strava.com/activities/11112953665" title="Kcal: 495 | Gear: None ">Afternoon Ride</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Kasteel Amerongen 🇳🇱👨‍👩‍👧‍👦🧒🏼👩🏼‍🦳🧓🏻" title="Kasteel Amerongen 🇳🇱👨‍👩‍👧‍👦🧒🏼👩🏼‍🦳🧓🏻"/>
+<a href="https://www.strava.com/activities/11112953665" title="Kcal: 495 | Gear: None ">Kasteel Amerongen 🇳🇱👨‍👩‍👧‍...</a>
             </td>
             <td align="center">23 <sup><sub>km</sub></sup></td>
             <td align="center">62 <sup><sub>m</sub></sup></td>
@@ -38,8 +64,8 @@
             <tr>
             <td>04-04-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Night Ride 🛒" title="Night Ride 🛒"/>
-<a href="https://www.strava.com/activities/11107432979" title="Kcal: 55 | Gear: None ">Night Ride 🛒</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Night Ride 🇳🇱🛒" title="Night Ride 🇳🇱🛒"/>
+<a href="https://www.strava.com/activities/11107432979" title="Kcal: 55 | Gear: None ">Night Ride 🇳🇱🛒</a>
             </td>
             <td align="center">2 <sup><sub>km</sub></sup></td>
             <td align="center">3 <sup><sub>m</sub></sup></td>
@@ -47,32 +73,6 @@
             <td align="center">33 <sup><sub>w</sub></sup></td>
             <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">104</td>
-        </tr>
-            <tr>
-            <td>03-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Door het Amerongse bos 👨‍👩‍👧‍👦🇳🇱" title="Door het Amerongse bos 👨‍👩‍👧‍👦🇳🇱"/>
-<a href="https://www.strava.com/activities/11096406564" title="Kcal: 262 | Gear: None ">Door het Amerongse bos 👨‍👩...</a>
-            </td>
-            <td align="center">13 <sup><sub>km</sub></sup></td>
-            <td align="center">16 <sup><sub>m</sub></sup></td>
-            <td align="center">49:00</td>
-            <td align="center">37 <sup><sub>w</sub></sup></td>
-            <td align="center">16 <sup><sub>km/h</sub></sup></td>
-            <td align="center">103</td>
-        </tr>
-            <tr>
-            <td>01-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Paas-MTB ☀️🌥️🌧️" title="Paas-MTB ☀️🌥️🌧️"/>
-<a href="https://www.strava.com/activities/11083871396" title="Kcal: 1631 | Gear: None ">Paas-MTB ☀️🌥️🌧️</a>
-            </td>
-            <td align="center">63 <sup><sub>km</sub></sup></td>
-            <td align="center">215 <sup><sub>m</sub></sup></td>
-            <td align="center">2:43:22</td>
-            <td align="center">184 <sup><sub>w</sub></sup></td>
-            <td align="center">23.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
