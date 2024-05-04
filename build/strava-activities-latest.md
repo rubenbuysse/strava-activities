@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>04-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="VMA Cycling Tour - deel 2" title="VMA Cycling Tour - deel 2"/>
+<a href="https://www.strava.com/activities/11329234761" title="Kcal: 2152 | Gear: None ">VMA Cycling Tour - deel 2</a>
+            </td>
+            <td align="center">102 <sup><sub>km</sub></sup></td>
+            <td align="center">708 <sup><sub>m</sub></sup></td>
+            <td align="center">3:39:25</td>
+            <td align="center">138 <sup><sub>w</sub></sup></td>
+            <td align="center">28 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
+            <td>04-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="VMA Cycling Tour - deel 1" title="VMA Cycling Tour - deel 1"/>
+<a href="https://www.strava.com/activities/11327140989" title="Kcal: 590 | Gear: None ">VMA Cycling Tour - deel 1</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">43 <sup><sub>m</sub></sup></td>
+            <td align="center">52:37</td>
+            <td align="center">116 <sup><sub>w</sub></sup></td>
+            <td align="center">27.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">145</td>
+        </tr>
+            <tr>
             <td>02-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
@@ -47,32 +73,6 @@
             <td align="center">54 <sup><sub>w</sub></sup></td>
             <td align="center">18.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">118</td>
-        </tr>
-            <tr>
-            <td>30-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
-<a href="https://www.strava.com/activities/11301643758" title="Kcal: 960 | Gear: None ">Evening Ride</a>
-            </td>
-            <td align="center">33 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1:21:12</td>
-            <td align="center">175 <sup><sub>w</sub></sup></td>
-            <td align="center">24.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
-        </tr>
-            <tr>
-            <td>30-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride 🚃" title="Afternoon Ride 🚃"/>
-<a href="https://www.strava.com/activities/11299632577" title="Kcal: 87 | Gear: None ">Afternoon Ride 🚃</a>
-            </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">11:01</td>
-            <td align="center">74 <sup><sub>w</sub></sup></td>
-            <td align="center">23.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">115</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
